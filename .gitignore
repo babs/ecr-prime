@@ -1,0 +1,6 @@
+/ecr-prime
+ecr-prime-*
+/dist/
+env.*
+.vscode/
+*.out
