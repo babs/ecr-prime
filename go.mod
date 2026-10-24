@@ -1,6 +1,6 @@
 module github.com/babs/ecr-prime
 
-go 1.26
+go 1.27.3
 
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.31.12
